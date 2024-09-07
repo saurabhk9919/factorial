@@ -5,14 +5,14 @@ int main(){
         printf("entr the numbers:");
         scanf("%d",&a[i]);
     }
-    for (int i=0;i<=6;i++){
-        if(i%2!=0){
-            a[i]=a[i]*10;
-        }
-        else{
-            a[i]=a[i]+10;
-        }
-        //for (int i=0;i<=6;i++){
+ for(int i=0;i<=6;i++)
+     {
+         if(i==0||i==2||i==4||i==6)
+             a[i]=a[i]*10;
+         else
+             a[i]=a[i]+10;
+     }
+        for (int i=0;i<=6;i++){
             printf("%d ",a[i]);
         
         }
