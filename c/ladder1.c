@@ -11,13 +11,13 @@ int main()
     scanf("%d",&m);
     per=(p+c+m)/3;
     if(per>80){
-        printf("A");
+        printf("c");
     }
     else if(per>70){
         printf("B");
     }
     else {
-        printf("C");
+        printf("A");
 
 }
 return 0;
