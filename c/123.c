@@ -12,4 +12,4 @@ int main()
         printf("not a leap year");
      }
 return 0;
-}
+ }
