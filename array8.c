@@ -1,4 +1,4 @@
- #include<stdio.h>
+  #include<stdio.h>
 int main(){
 int a[7];
 for(int i=0;i<=6;i++){
