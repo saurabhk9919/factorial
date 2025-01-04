@@ -2,7 +2,7 @@
 int main(){
 int a[7];
 for(int i=0;i<=6;i++){
-    printf("enter the  numbers:");//greatest number in the  given array
+    printf("enter the  numbers:");
     scanf("%d",&a[i]);
 }
 int max = a[0];
