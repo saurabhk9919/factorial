@@ -4,7 +4,7 @@ public class arlinsrch{
     public static void main(String args[]){
         Scanner sc= new Scanner(System.in);
         System.out.print("Enter the size of the arrray elemnt:");
-        int size=sc.nextInt(); 
+        int size=sc.nextInt (); 
         int flag=0;
         int position=-1;
         int a[]=new int[size];
