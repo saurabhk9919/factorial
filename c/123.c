@@ -5,7 +5,7 @@ int main ()
     printf("enter the year");
     scanf("%d",&year);
      if ((year%4==0) && (year%100! = 100||year%400==0)){
-        printf("the year is leap");
+        printf("It is a leap year");
       }
      else
      {
