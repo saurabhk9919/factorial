@@ -10,13 +10,10 @@ int main() {
     for(int i = 0; i < n; i++) {
         cin >> arr[i];
     }
-
     int sum = 0;
     for(int i = 0; i < n; i++) {
         sum += arr[i];
     }
-
     cout << "The sum of the array elements is: " << sum << endl;
-
-    return 0;
+     return 0;
 }
