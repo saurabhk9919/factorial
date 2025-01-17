@@ -7,11 +7,9 @@ int isPrime(int num) {
     }
     return 1;
 }
-
-int main() {
+int main() {
     int start, end;
-
-    printf("Enter the range (start and end): ");
+printf("Enter the range (start and end): ");
     scanf("%d %d", &start, &end);
 
     printf("Prime numbers between %d and %d are:\n", start, end);
