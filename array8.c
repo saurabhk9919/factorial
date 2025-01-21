@@ -9,8 +9,7 @@ int max = a[0];
 for(int i=1;i<=6;i++){
     if(max>a[i]){//greatest print karane k liye ineqality ka sign change krdo
         max=a[i];
-}
-}
+}}
 printf("%d",max);
 return 0;
 
