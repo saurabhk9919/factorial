@@ -12,5 +12,4 @@ for(int i=0;i<=3;i++){//product of the given elements of the array by the user
 }
 printf("%d",product);
 return 0;
-
 }
