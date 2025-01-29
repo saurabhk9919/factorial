@@ -7,7 +7,7 @@ for(int i=0;i<=3;i++){
     scanf("%d",&a[i]);
 }
 int product=1;
-for(int i=0;i<=3;i++){//product of the given elements of the array by the user
+for(int i=0;i<=3;i++){
     product=product*a[i];
 }
 printf("%d",product);
