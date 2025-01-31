@@ -6,6 +6,7 @@ for(int i=0;i<=3;i++){
     printf("enter the element %d:",i+1);
     scanf("%d",&a[i]);
 }
+
 int product=1;
 for(int i=0;i<=3;i++){
     product=product*a[i];
