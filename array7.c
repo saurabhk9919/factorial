@@ -1,6 +1,7 @@
 
 #include<stdio.h>
-int main(){
+int main()
+{
 int a[4];
 for(int i=0;i<=3;i++){
     printf("enter the element %d:",i+1);
