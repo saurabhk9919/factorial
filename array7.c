@@ -12,6 +12,7 @@ int product=1;
 for(int i=0;i<=3;i++){
     product=product*a[i];
 }
+
 printf("%d",product);
 return 0;
 }
