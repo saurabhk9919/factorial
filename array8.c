@@ -7,7 +7,7 @@ for(int i=0;i<=6;i++){
 }
 int max = a[0];
 for(int i=1;i<=6;i++){
-    if(max>a[i]){//greatest print karane k liye ineqality ka sign change krdo
+    if(max>a[i]){
         max=a[i];
 }}
 printf("%d",max);
