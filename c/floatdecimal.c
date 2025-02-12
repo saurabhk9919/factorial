@@ -10,6 +10,5 @@ if (n%2==0){
 else{
      printf("odd numb");
     }
-
 return 0;
 }
