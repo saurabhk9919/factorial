@@ -14,8 +14,7 @@ printf("Enter the range (start and end): ");
     for (int i = start; i <= end; i++) {
         if (isPrime(i)) {
             printf("%d ", i);
-        }
-    }
+ }}
     printf("\n");
     return 0;
 }
