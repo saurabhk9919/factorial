@@ -12,5 +12,4 @@ for(int i=1;i<=6;i++){
 }}
 printf("%d",max);
 return 0;
-
 }
