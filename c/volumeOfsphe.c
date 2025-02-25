@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int r;
+int r;
  float volume;
     printf("enter the value of the rsdius:%d\n",r);
     scanf("%d",&r);
