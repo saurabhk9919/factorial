@@ -7,5 +7,4 @@ int main()
     scanf("%f",&r);
     float ar=pi*r*r;
     printf("the area is%f",ar);
-    return 0;
-}
+    return 0;}
