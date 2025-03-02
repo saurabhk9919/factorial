@@ -9,8 +9,8 @@ int isPrime(int num) {
 int main() {
     int start, end;
 printf("Enter the range (start and end): ");
-    scanf("%d %d", &start, &end);
-    printf("Prime numbers between %d and %d are:\n", start, end);
+   scanf("%d %d", &start, &end);
+   printf("Prime numbers between %d and %d are:\n", start, end);
     for (int i = start; i <= end; i++) {
         if (isPrime(i)) {
             printf("%d ", i);
