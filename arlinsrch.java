@@ -28,7 +28,6 @@ public class arlinsrch{
                 System.out.print("ELmemt not found");
             }
         }
-            
         } 
     
 
