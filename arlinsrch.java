@@ -19,7 +19,7 @@ public class arlinsrch{
                 flag=1;
                 position=i;
                 break;
-            }
+          }
         }
                 if(flag==1){
                 System.out.print("The elemnt is " +key+ " at "+(position+1) );
