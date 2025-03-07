@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 char convert(char alfa){
-    char res=alfa-'a'+'A';
-    return res;
+   char res=alfa-'a'+'A';
+   return res;
 }
 int main(){
     char alfa;
